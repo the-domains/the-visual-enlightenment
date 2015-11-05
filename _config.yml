@@ -1,0 +1,23 @@
+name: The Visual Enlightenment
+favicon: null
+layout_spectrum: 0.3246823698282242
+typography_spectrum: 0.6756299063563347
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5863515851087868
+  lightness: 0.07671186258085072
+  saturation: 0.9745665860828012
+  rhythmicContrast: 0.4961738013662398
+purpose: []
